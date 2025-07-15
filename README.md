@@ -2,6 +2,8 @@
 
 A modern, professional QR code generator with a clean black and blue design theme. Create custom QR codes for websites, text, emails, phone numbers, SMS, and WiFi networks with advanced customization options and multi-format download support.
 
+**Live Demo:** [https://qrc0de.vercel.app](https://qrc0de.vercel.app)
+
 ## 🎨 Design Features
 
 - **Clean Black & Blue Theme**: Professional color scheme with black accents and blue highlights
