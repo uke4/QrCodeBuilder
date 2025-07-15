@@ -108,7 +108,7 @@ qr-code-generator/
 │       ├── step1-choose-content.png
 │       ├── step2-customize-design.png
 │       ├── step3-download-qr.png
-│       └── unknown.png
+│       └── qrgen.png
 ├── src/
 │   ├── components/
 │   │   ├── icons/
