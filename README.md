@@ -65,8 +65,8 @@ A modern, professional QR code generator with a clean black and blue design them
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
-   cd qr-code-generator
+   git clone https://github.com/uke4/QrCodeBuilder.git
+   cd QrCodeBuilder
    ```
 
 2. **Install dependencies**
